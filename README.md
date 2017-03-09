@@ -33,6 +33,24 @@ Serão utilizados também guias, addons e sites como material complementar:
 
 Para acompanhar o andamento das atividades, semanalmente será feito um relatório em um [repositório no GitHub da disciplina](https://github.com/blackjuice/MAC0214)
 
-Formato:
+O formato do relatório será a seguir:
 
-![](img/170309_example.png)
+Semana: **X** de **MM**
+
+* dia: DD
+* título: string
+* descrição: string
+
+Exemplo:
+
+## Semana: **2** de **Abril**
+
+    dia: 03
+    título: Movimentação da câmera e plantão de dúvidas
+
+descrição: 
+
+Introdução da movimentação da câmera no ambiente de trabalho do Blender. Foi apresentado que é possível obter diferentes ângulos de observação da câmera através de atalhos do teclado, mouse e atravês da interação direta com os menus da interface do programa.
+
+No plantão de dúvidas, foram esclarecidos dúvidas que persistiram durante a aula passada do dia X.
+
