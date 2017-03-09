@@ -37,11 +37,15 @@ O formato do relatório será a seguir:
 
 Semana: **X** de **MM**
 
-* dia: DD
-* título: string
-* descrição: string
+    dia: DD
+    título: string
 
-Exemplo:
+descrição: 
+
+*string*
+
+
+#### Exemplo:
 
 ## Semana: **2** de **Abril**
 
